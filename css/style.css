@@ -1,6 +1,7 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: HeliosCondC, sans-serif;
 }
 /* COMMON */
 .bold {
@@ -30,4 +31,40 @@
 }
 .inline-block {
     display: inline-block;
+}
+
+/* HEADER */
+.header {
+    display: grid;
+    grid-template-columns: auto 570px auto;
+
+}
+
+/*LEFT HEADER PART*/
+.left-header {
+    background-color: #19355b;
+    color: white;
+    text-align: right;
+    padding: 21px 60px 21px 0;
+}
+/*MIDDLE HEADER PART*/
+.middle-header {
+    padding-left: 70px;
+}
+
+/*RIGHT HEADER PART*/
+.right-header a{
+    color: #e84042;
+    text-decoration: underline;
+}
+
+.middle-header div p, .right-header div p{
+    font-size: 20px;
+}
+.middle-header div h2, .right-header div h2 {
+    font-size: 30px;
+}
+.middle-header img, .right-header img {
+    margin-right: 35px;
+    margin-top: 46px;
 }
