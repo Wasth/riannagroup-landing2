@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/* COMMON */
+.bold {
+    font-weight: bold;
+}
+.normal {
+    font-weight: normal;
+}
+.light {
+    font-weight: 100;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.wrapper {
+    min-width: 1300px;
+}
+.clear {
+    clear: both;
+}
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
+}
+.inline-block {
+    display: inline-block;
+}
