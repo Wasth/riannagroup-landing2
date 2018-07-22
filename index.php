@@ -30,7 +30,7 @@
         </div>
         <div class="right-header">
             <div class="inline-block">
-                <img src="img/phoneblue.png" alt="">
+                <img src="img/mailblue.png" alt="">
             </div>
             <div class="inline-block">
                 <p>Отправьте заявку на почту</p>
@@ -40,7 +40,38 @@
     </div>
 </div>
 <!-- HEADER FINISH -->
-
+<div class="main">
+    <div class="wrapper">
+        <div class="container">
+            <h1>
+                производство до 500 тонн<br>металлоконструкций в месяц
+            </h1>
+            <p>
+                для нужд гражданского
+                и промышленного
+                строительства
+            </p>
+            <table>
+                <tr>
+                    <td><span class="number" style="font-size: 80px;">6</span> <span class="measure">лет</span><br>
+                        на рынке</td>
+                    <td><span class="number">10 000</span> <span class="measure">м2</span><br>
+                        общая площадь<br>
+                        производственных мощностей</td>
+                </tr>
+                <tr>
+                    <td><span class="number">200</span> <span class="measure">видов</span><br>
+                        металлоконструкций<br>
+                        + индивидуальные решения</td>
+                    <td><span class="number">24</span><br>
+                        <span class="measure">часа в сутки</span><br>
+                        — режим работы<br>
+                        при необходимости</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
 
 
 </body>

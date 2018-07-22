@@ -4,6 +4,15 @@
     font-family: HeliosCondC, sans-serif;
 }
 /* COMMON */
+.big-text {
+    font-size: 64px;
+}
+.medium-text {
+    font-size: 40px;
+}
+.small-text {
+    font-size: 30px;
+}
 .bold {
     font-weight: bold;
 }
@@ -36,7 +45,7 @@
 /* HEADER */
 .header {
     display: grid;
-    grid-template-columns: auto 570px auto;
+    grid-template-columns: calc(50% - 285px) 570px calc(50% - 285px);
 
 }
 
@@ -67,4 +76,47 @@
 .middle-header img, .right-header img {
     margin-right: 35px;
     margin-top: 46px;
+}
+
+/*MAIN BLOCK*/
+.main {
+    background-image: url('../img/mainbg.jpg');
+    background-position: top center;
+    background-size: 1920px auto;
+}
+.main h1 {
+    font-size: 72px;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 90px;
+    padding-top: 50px;
+}
+.main p {
+    font-size: 50px;
+    color: #fff;
+    width: 512px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.main table {
+    width: 540px;
+    margin: 0 auto;
+    color: #fff;
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 61px;
+}
+.main table tr td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 50px 0;
+}
+.main .number, .main .measure {
+    color: #ffc733;
+}
+.main .number {
+    font-size: 60px;
+}
+.main .measure {
+    font-size: 30px;
 }
