@@ -126,7 +126,7 @@ if(isset($_GET['politics'])) {
             </div>
             <div class="inline-block">
                 <p>Отправьте заявку на почту</p>
-                <h2><a href="mailto:sales@opora-rg.ru">sales@opora-rg.ru</a></h2>
+                <h2><a href="mailto:lp@opora-rg.ru">lp@opora-rg.ru</a></h2>
             </div>
         </div>
     </div>
@@ -874,7 +874,7 @@ if(isset($_GET['politics'])) {
                     <div class="icon" style="background-image:url('img/mailicon.png');">
 
                     </div>
-                    <a href="mailto:sales@opora-rg.ru">sales@opora-rg.ru</a>
+                    <a href="mailto:lp@opora-rg.ru">lp@opora-rg.ru</a>
                 </div>
                 <div class="address">
                     <div class="icon" style="background-image:url('img/labelicon.png');">

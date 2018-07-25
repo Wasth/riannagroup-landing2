@@ -1,6 +1,6 @@
 <?php
-$from = "sales@opora-rg.ru";
-$to = "sales@opora-rg.ru";
+$from = "lp@opora-rg.ru";
+$to = "lp@opora-rg.ru";
 $subject = "Заявка";
 $message = "Имя - ".(isset($_POST['name'])?$_POST['name']."\n":"не введено\n"); //Текст письма
 $message .= "Телефон - ".(isset($_POST['phone'])?$_POST['phone']."\n":"не введено\n"); //Текст письма
