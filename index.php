@@ -247,43 +247,106 @@ if(isset($_GET['politics'])) {
                                 </div>
                             </div>
                             <div class="slide">
-                                <h2>2 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Сливо-наливные эстакады</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/2slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/2slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/2slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>3 slide</h2>
+                                    <h1 class="text-center blue-text uppercase medium-text">Эстакады для ленточных транспортеров</h1>
+                                    <div class="imgs-wrapper">
+                                        <div><img src="img/prodabilities/3slide1.jpg" alt=""></div>
+                                        <div><img src="img/prodabilities/3slide2.jpg" alt=""></div>
+                                        <div><img src="img/prodabilities/3slide3.jpg" alt=""></div>
+                                    </div>
                             </div>
                             <div class="slide">
-                                <h2>4 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Прожекторные мачты</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/4slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/4slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/4slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>5 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Металлоконструкции связи</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/5slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/5slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/5slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>6 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Металлические фермы и прогоны</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/6slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/6slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/6slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>7 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Металлические стойки и колонны</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/7slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/7slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/7slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>8 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Закладные изделия</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/8slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/8slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/8slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>9 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Молниеотводы</h1>
+                                <div class="row-2-left imgs-wrapper">
+                                    <div><img src="img/prodabilities/9slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/9slide2.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>10 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Площадки, лестницы и ограждения</h1>
+                                <div class="row-2-left imgs-wrapper">
+                                    <div><img src="img/prodabilities/10slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/10slide2.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>11 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Связи и распорки</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/11slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/11slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/11slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>12 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Фахверки, балки перекрытия и покрытия</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/12slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/12slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/12slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>13 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Опоры ЛЭП и траверсы</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/13slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/13slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/13slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                             <div class="slide">
-                                <h2>14 slide</h2>
+                                <h1 class="text-center blue-text uppercase medium-text">Опоры трубопроводов</h1>
+                                <div class="imgs-wrapper">
+                                    <div><img src="img/prodabilities/14slide1.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/14slide2.jpg" alt=""></div>
+                                    <div><img src="img/prodabilities/14slide3.jpg" alt=""></div>
+                                </div>
                             </div>
                         </div>
 
@@ -323,10 +386,41 @@ if(isset($_GET['politics'])) {
                     <div class="arrow right f-right"></div>
                     <div class="slides">
                         <div class="slide">
-                            <h1>AZAZLO</h1>
+                            <div>
+                                <h2>Предприятия<br>энергетического сектора</h2>
+                                <img src="img/nonstandard/1slide1.jpg" alt=""></div>
+                            <div>
+                                <h2>Нефтеперерабатывающих<br>заводов</h2>
+                                <img src="img/nonstandard/1slide2.jpg" alt=""></div>
+                            <div>
+                                <h2>Организаций<br>сферы ЖКХ</h2>
+                                <img src="img/nonstandard/1slide3.jpg" alt=""></div>
                         </div>
-                        <div class="slide">2</div>
-                        <div class="slide">3</div>
+                        <div class="slide">
+                            <div>
+                                <h2>Строительных<br>
+                                    компаний</h2>
+                                <img src="img/nonstandard/2slide1.jpg" alt=""></div>
+                            <div>
+                                <h2>Надземные<br>
+                                    переходы</h2>
+                                <img src="img/nonstandard/2slide2.jpg" alt=""></div>
+                            <div>
+                                <h2>Спортивные<br>
+                                    сооружения</h2>
+                                <img src="img/nonstandard/2slide3.jpg" alt=""></div>
+                        </div>
+                        <div class="slide">
+                            <div>
+                                <h2>Автостоянки</h2>
+                                <img src="img/nonstandard/3slide1.jpg" alt=""></div>
+                            <div>
+                                <h2>Торговые центры</h2>
+                                <img src="img/nonstandard/3slide2.jpg" alt=""></div>
+                            <div>
+                                <h2>Других производств</h2>
+                                <img src="img/nonstandard/3slide3.jpg" alt=""></div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -584,10 +678,19 @@ if(isset($_GET['politics'])) {
                 <div class="slider-content active">
                     <div class="arrow left f-left"></div>
                     <div class="arrow right f-right"></div>
-                    <div class="slides">
+                    <div class="slides white-text">
                         <div class="slide">
-                            <div>
-
+                            <div style="background-image: url('img/partners/1slide.jpg');">
+                                <div class="name">
+                                    "АРСЛАН"   <img src="img/labelcircle.png" alt="">   <span class="location">г. Альметьевск</span>
+                                </div>
+                                <div class="gradient"></div>
+                                <div class="phrase">
+                                    4-летнее<br>
+                                    сотрудничество<br>
+                                    со строительной<br>
+                                    компанией
+                                </div>
                             </div>
                             <div class="row-2">
                                 <div class="fact">
@@ -617,10 +720,78 @@ if(isset($_GET['politics'])) {
                             </div>
                         </div>
                         <div class="slide">
-                            2
+                            <div style="background-image: url('img/partners/2slide.jpg');">
+                                <div class="name">
+                                    "СМУ-7"   <img src="img/labelcircle.png" alt="">   <span class="location">г. Альметьевск</span>
+                                </div>
+                                <div class="gradient"></div>
+                                <div class="phrase">
+                                    Результаты работы<br>
+                                    со строительно-<br>
+                                    монтажной фирмой<br>обнадеживают
+                                </div>
+                            </div>
+                            <div class="row-2">
+                                <div class="fact">
+                                    <img src="img/partnersplus1.png" alt="">
+                                    <p>Год работы:<br>
+                                        <span class="bold">2014–2018 гг.</span></p>
+                                </div>
+                                <div class="fact">
+                                    <img src="img/partnersplus2.png" alt="">
+                                    <p>Продукция:<br>
+                                        <span class="bold">металлоконструкции,<br> анкерные болты<br>
+                                                ГОСТ 24379.1-2012.</span></p>
+                                </div>
+                                <div class="fact">
+                                    <img src="img/partnersplus3.png" alt="">
+                                    <p>Объект: <span class="bold">«ТАНЭКО»,<br>
+                                        Ашальчинское нефтяное<br>месторождение, Вишнево-Полянское<br>
+                                        нефтяное месторождение.</span></p>
+                                </div>
+                                <div class="fact">
+                                    <img src="img/partnersplus3.png" alt="">
+                                    <p>Подробности: <br>
+                                        <span class="bold">общий объем продукции<br>
+                                            составил более 1500 тонн.</span></p>
+                                </div>
+                            </div>
                         </div>
                         <div class="slide">
-                            3
+                            <div style="background-image: url('img/partners/3slide.jpg');">
+                                <div class="name">
+                                    "ГИСМО"   <img src="img/labelcircle.png" alt="">   <span class="location">г. Уфа</span>
+                                </div>
+                                <div class="gradient"></div>
+                                <div class="phrase">
+                                    Научно-<br>
+                                    производственный<br>
+                                    центр оценил<br>
+                                    нашу работу
+                                </div>
+                            </div>
+                            <div class="row-2">
+                                <div class="fact">
+                                    <img src="img/partnersplus1.png" alt="">
+                                    <p>Год работы:<br>
+                                        <span class="bold">2012–2018 гг.</span></p>
+                                </div>
+                                <div class="fact">
+                                    <img src="img/partnersplus2.png" alt="">
+                                    <p>Продукция:<br>
+                                        <span class="bold">лестницы и ограждения,<br> закладные детали,<br> металлоконструкции.</span></p>
+                                </div>
+                                <div class="fact">
+                                    <img src="img/partnersplus3.png" alt="">
+                                    <p>Объект: <br><span class="bold">ПАО «Интер РАО», ПАО АК «ВНЗМ»,<br> «Таргин», «Башкирские теплосети»<br>и т. д.</span></p>
+                                </div>
+                                <div class="fact">
+                                    <img src="img/partnersplus3.png" alt="">
+                                    <p>Подробности: <br>
+                                        <span class="bold">общий объем продукции<br>
+                                            составил более 1300 тонн.</span></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -703,7 +874,7 @@ if(isset($_GET['politics'])) {
                     <div class="icon" style="background-image:url('img/mailicon.png');">
 
                     </div>
-                    <a href="mailto:lp@opora-rg.ru">lp@opora-rg.ru</a>
+                    <a href="mailto:sales@opora-rg.ru">sales@opora-rg.ru</a>
                 </div>
                 <div class="address">
                     <div class="icon" style="background-image:url('img/labelicon.png');">
@@ -718,7 +889,7 @@ if(isset($_GET['politics'])) {
         <div class="bottom-form container">
             <div class="row">
                 <div>
-                    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A521de30da5c6b84d01e4d1944770929594d1d49ab482f34193ac3206418e8bd9&amp;width=100%25&amp;height=470&amp;lang=ru_RU&amp;scroll=true"></script>
+                    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A521de30da5c6b84d01e4d1944770929594d1d49ab482f34193ac3206418e8bd9&amp;width=100%25&amp;height=452&amp;lang=ru_RU&amp;scroll=true"></script>
                 </div>
                 <div>
                     <h1>Получите <span>скидку 10%</span> <br>
@@ -762,10 +933,6 @@ if(isset($_GET['politics'])) {
     <div class="container">
         <div class="logo">
             <img src="img/logo2.png" alt="">
-            <div class="logo-text">
-                <h1>РИАНА ГРУПП</h1>
-                <p>Производство опор трубопроводов</p>
-            </div>
             <div class="allrights">
                 <p>© 2018 All rights reserved.</p>
             </div>
