@@ -186,10 +186,11 @@
 /* PROD ABILITIES */
 .prod-abilities .wrapper .container > h1 {
     margin-top: 60px;
-    margin-bottom: 65px;
+    margin-bottom: 30px;
 }
 .prod-abilities .wrapper .container > h2 {
-    margin-bottom: 60px;
+    margin-bottom: 30px;
+    line-height: 30px;
 }
 .prod-abilities .tabs {
     display: grid;
